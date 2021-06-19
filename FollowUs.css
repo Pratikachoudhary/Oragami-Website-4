@@ -1,0 +1,21 @@
+body{
+    background-color: lawngreen;
+}
+
+.header{
+    border: solid;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.base{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.end{
+    display: flex;
+    justify-content: flex-end;
+}
